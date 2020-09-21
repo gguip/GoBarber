@@ -1,8 +1,11 @@
 {
   "cSpell.words": [
     "camelcase",
+    "exphbs",
     "middlewares",
-    "originalname"
+    "nodemailerhbs",
+    "originalname",
+    "youch"
   ],
   "cSpell.ignoreWords": [
     "gobarber"
