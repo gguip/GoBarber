@@ -54,12 +54,13 @@ export const Profile = styled.div`
       display: block;
       margin-top: 2px;
       font-size: 12px;
-      color: #999;
+      color: #333;
     }
   }
 
   img {
     height: 32px;
+    width: 32px;
     border-radius: 50%;
   }
 `;
